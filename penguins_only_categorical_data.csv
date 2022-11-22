@@ -1,0 +1,335 @@
+Species,Island,Culmen Length (mm),Culmen Depth (mm),Flipper Length (mm),Body Mass (g),Sex,Delta 15 N (o/oo),Delta 13 C (o/oo)
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,medium,short,light,MALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,medium,short,light,FEMALE,medium concentrated,highly concentrated
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,medium,medium,light,FEMALE,weak,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,long,medium,light,FEMALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,long,short,light,MALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,medium,short,light,FEMALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,long,medium,middleweight,MALE,highly concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,medium,short,light,FEMALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,long,short,light,MALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,long,medium,middleweight,MALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,medium,short,light,FEMALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,long,medium,light,FEMALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Torgersen,medium,long,medium,middleweight,MALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,medium,short,light,FEMALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Torgersen,medium,long,medium,middleweight,MALE,medium concentrated,highly concentrated
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,medium,short,light,FEMALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,medium,short,light,MALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,long,short,light,FEMALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,medium,short,middleweight,MALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,medium,short,light,MALE,highly concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,long,short,light,FEMALE,medium concentrated,highly concentrated
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,medium,short,light,MALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,medium,short,light,FEMALE,weak,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,medium,short,light,FEMALE,weak,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,long,short,middleweight,MALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,short,light,FEMALE,highly concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,short,light,MALE,highly concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,short,light,FEMALE,highly concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,short,long,short,light,MALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,medium,light,FEMALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,short,long,medium,middleweight,MALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,short,long,short,middleweight,MALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,medium,medium,short,light,FEMALE,weak,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,short,long,short,light,FEMALE,highly concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,short,long,short,middleweight,MALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,short,light,FEMALE,highly concentrated,highly concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,medium,light,MALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,short,light,FEMALE,highly concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,medium,long,medium,middleweight,MALE,highly concentrated,highly concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,short,light,FEMALE,highly concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,short,long,short,middleweight,MALE,highly concentrated,highly concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,short,long,short,light,MALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,short,light,FEMALE,highly concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,medium,long,short,middleweight,MALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,medium,short,light,FEMALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,long,short,middleweight,MALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,medium,short,light,FEMALE,weak,weak
+Adelie Penguin (Pygoscelis adeliae),Biscoe,medium,long,medium,middleweight,MALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,medium,short,light,FEMALE,weak,weak
+Adelie Penguin (Pygoscelis adeliae),Biscoe,medium,medium,short,light,MALE,weak,weak
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,medium,short,light,FEMALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,long,medium,light,MALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,medium,short,light,FEMALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,long,medium,light,MALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,medium,short,light,FEMALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Biscoe,medium,long,medium,middleweight,MALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,medium,short,light,FEMALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,medium,medium,middleweight,MALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,medium,short,light,FEMALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Biscoe,medium,medium,medium,middleweight,MALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,medium,medium,light,FEMALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,long,short,middleweight,MALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,medium,short,light,FEMALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Torgersen,medium,long,medium,middleweight,MALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,long,short,light,FEMALE,weak,weak
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,medium,short,light,MALE,highly concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,medium,medium,light,FEMALE,weak,weak
+Adelie Penguin (Pygoscelis adeliae),Torgersen,medium,long,medium,middleweight,MALE,weak,weak
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,medium,short,light,FEMALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Torgersen,medium,medium,medium,middleweight,MALE,weak,weak
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,medium,short,light,FEMALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,long,short,light,MALE,weak,weak
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,medium,short,light,FEMALE,weak,weak
+Adelie Penguin (Pygoscelis adeliae),Torgersen,medium,long,medium,middleweight,MALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,medium,short,light,FEMALE,weak,weak
+Adelie Penguin (Pygoscelis adeliae),Torgersen,medium,medium,medium,middleweight,MALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,long,short,light,FEMALE,weak,weak
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,long,medium,middleweight,MALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,short,light,FEMALE,weak,weak
+Adelie Penguin (Pygoscelis adeliae),Dream,medium,long,medium,light,MALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Dream,short,long,short,light,MALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,short,light,FEMALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Dream,short,long,short,middleweight,MALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Dream,short,long,short,light,FEMALE,weak,weak
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,medium,light,FEMALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,medium,middleweight,MALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,short,light,FEMALE,weak,weak
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,short,middleweight,MALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,short,light,FEMALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Dream,short,long,medium,middleweight,MALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,short,light,FEMALE,weak,weak
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,medium,middleweight,MALE,weak,weak
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,short,light,FEMALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Dream,medium,medium,medium,middleweight,MALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,medium,medium,light,FEMALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,long,medium,middleweight,MALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,medium,short,light,FEMALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,long,short,middleweight,MALE,highly concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,medium,medium,light,FEMALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,long,short,light,MALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,medium,medium,light,FEMALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,long,short,light,MALE,highly concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,medium,short,light,FEMALE,highly concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Biscoe,medium,long,medium,middleweight,MALE,highly concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,medium,medium,light,FEMALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Biscoe,medium,long,short,middleweight,MALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,medium,medium,light,FEMALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Biscoe,medium,long,medium,middleweight,MALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Biscoe,short,long,short,light,FEMALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Biscoe,medium,medium,medium,middleweight,MALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,medium,short,light,FEMALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,long,medium,light,MALE,highly concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,medium,short,light,FEMALE,medium concentrated,highly concentrated
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,medium,short,light,MALE,highly concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,medium,short,light,FEMALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,long,medium,light,MALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,medium,short,light,FEMALE,highly concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Torgersen,medium,medium,medium,light,MALE,highly concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,short,short,light,FEMALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,long,medium,middleweight,MALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,medium,short,light,FEMALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Torgersen,medium,medium,medium,middleweight,MALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,medium,short,light,FEMALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Torgersen,medium,medium,medium,middleweight,MALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Torgersen,short,medium,short,light,FEMALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Torgersen,medium,long,medium,light,MALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,medium,light,FEMALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,medium,middleweight,MALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,short,light,FEMALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,short,light,MALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,short,light,FEMALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Dream,short,long,medium,middleweight,MALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,short,light,FEMALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,medium,middleweight,MALE,highly concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,medium,light,FEMALE,highly concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,short,light,MALE,highly concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Dream,short,short,short,light,FEMALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,short,light,MALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,medium,light,FEMALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,short,light,MALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,short,middleweight,MALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,short,light,FEMALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,medium,light,FEMALE,medium concentrated,medium concentrated
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,medium,light,MALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Dream,short,medium,short,light,FEMALE,medium concentrated,weak
+Adelie Penguin (Pygoscelis adeliae),Dream,medium,medium,medium,middleweight,MALE,medium concentrated,weak
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,medium,light,FEMALE,medium concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,long,medium,light,MALE,medium concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,long,long,medium,light,MALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,short,light,FEMALE,medium concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,long,long,medium,light,MALE,medium concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,medium,middleweight,FEMALE,medium concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,short,light,FEMALE,medium concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,long,medium,medium,light,MALE,medium concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,long,medium,middleweight,FEMALE,medium concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,long,long,medium,light,MALE,medium concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,medium,light,FEMALE,medium concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,long,long,medium,light,MALE,medium concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,short,light,FEMALE,medium concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,long,medium,medium,middleweight,MALE,medium concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,short,light,FEMALE,medium concentrated,medium concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,long,long,medium,middleweight,MALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,long,medium,light,MALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,long,medium,short,light,FEMALE,medium concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,short,light,FEMALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,medium,middleweight,MALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,short,light,FEMALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,short,light,MALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,short,light,FEMALE,highly concentrated,medium concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,long,long,medium,light,MALE,highly concentrated,medium concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,medium,light,FEMALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,long,long,medium,middleweight,MALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,long,medium,medium,light,FEMALE,medium concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,long,medium,light,MALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,short,light,FEMALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,long,long,medium,middleweight,MALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,short,medium,short,light,FEMALE,medium concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,long,long,medium,middleweight,MALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,short,light,FEMALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,long,long,medium,middleweight,MALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,medium,light,MALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,medium,light,FEMALE,medium concentrated,medium concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,medium,light,FEMALE,medium concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,long,long,medium,middleweight,MALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,medium,light,FEMALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,long,long,medium,middleweight,MALE,highly concentrated,medium concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,long,medium,middleweight,MALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,short,light,FEMALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,long,long,medium,light,MALE,highly concentrated,medium concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,medium,light,FEMALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,long,medium,medium,light,FEMALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,long,medium,medium,middleweight,MALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,short,light,FEMALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,long,long,middleweight,MALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,long,medium,short,light,MALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,medium,light,FEMALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,medium,light,FEMALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,long,long,medium,middleweight,MALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,medium,light,FEMALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,long,long,medium,middleweight,MALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,short,light,FEMALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,long,long,medium,light,MALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,short,light,FEMALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,long,medium,middleweight,MALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,long,medium,light,MALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,long,medium,light,FEMALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,long,long,medium,middleweight,MALE,medium concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,short,light,FEMALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,medium,light,FEMALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,long,long,medium,middleweight,MALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,medium,light,FEMALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,medium,light,MALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,long,long,medium,middleweight,MALE,highly concentrated,highly concentrated
+Chinstrap penguin (Pygoscelis antarctica),Dream,medium,medium,medium,light,FEMALE,highly concentrated,highly concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,medium,middleweight,FEMALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,medium,long,heavy,MALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,medium,middleweight,FEMALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,heavy,MALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,heavy,MALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,medium,middleweight,FEMALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,medium,middleweight,FEMALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,heavy,MALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,medium,middleweight,FEMALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,heavy,MALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,short,short,long,middleweight,FEMALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,medium,long,heavy,MALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,heavy,MALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,medium,middleweight,FEMALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,heavy,MALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,medium,middleweight,FEMALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,heavy,MALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,medium,middleweight,FEMALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,heavy,MALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,heavy,MALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,MALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,MALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,heavy,MALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,medium,middleweight,FEMALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,heavy,MALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,heavy,MALE,medium concentrated,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,medium,middleweight,FEMALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,medium,middleweight,FEMALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,long,medium,long,heavy,MALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,heavy,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,medium,long,heavy,MALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,medium,long,heavy,MALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,medium,middleweight,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,medium,heavy,MALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,medium,middleweight,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,medium,long,heavy,MALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,medium,middleweight,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,MALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,long,short,long,heavy,MALE,medium concentrated,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,medium,middleweight,FEMALE,medium concentrated,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,long,short,long,heavy,MALE,medium concentrated,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,medium concentrated,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,heavy,MALE,medium concentrated,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,medium,middleweight,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,heavy,MALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,medium,middleweight,FEMALE,medium concentrated,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,MALE,medium concentrated,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,medium concentrated,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,MALE,medium concentrated,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,medium,middleweight,FEMALE,medium concentrated,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,MALE,medium concentrated,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,medium,middleweight,FEMALE,medium concentrated,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,heavy,MALE,medium concentrated,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,medium,middleweight,FEMALE,medium concentrated,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,heavy,MALE,medium concentrated,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,medium concentrated,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,long,short,long,heavy,MALE,medium concentrated,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,medium concentrated,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,medium,long,heavy,MALE,medium concentrated,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,medium,long,heavy,MALE,medium concentrated,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,medium concentrated,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,long,short,long,heavy,MALE,medium concentrated,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,medium concentrated,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,MALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,MALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,heavy,FEMALE,medium concentrated,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,medium concentrated,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,medium,long,heavy,MALE,medium concentrated,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,medium,middleweight,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,long,medium,long,heavy,MALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,medium,long,heavy,MALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,long,short,long,heavy,MALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,heavy,MALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,long,medium,long,heavy,MALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,long,short,long,heavy,MALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,long,medium,long,heavy,MALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,long,medium,long,heavy,MALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,medium,long,heavy,MALE,medium concentrated,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,long,short,long,heavy,MALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,MALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,medium,middleweight,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,long,medium,long,heavy,MALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,long,medium,long,heavy,MALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,heavy,MALE,medium concentrated,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,medium,long,heavy,MALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,medium,middleweight,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,long,short,long,heavy,MALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,medium,middleweight,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,medium,heavy,MALE,medium concentrated,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,long,short,long,middleweight,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,heavy,MALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,long,medium,long,heavy,MALE,medium concentrated,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,long,medium,long,heavy,MALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,.,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,medium,long,heavy,MALE,weak,medium concentrated
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,middleweight,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,heavy,MALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,short,long,heavy,FEMALE,weak,weak
+Gentoo penguin (Pygoscelis papua),Biscoe,medium,medium,long,heavy,MALE,weak,weak
